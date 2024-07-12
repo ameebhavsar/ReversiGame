@@ -4,8 +4,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 
-#include "lab8part2.h"
-#include "liblab8part2.h"
+#include "humanPlayerConfig.h"
 
 // Timer
 #include <sys/resource.h>
@@ -16,20 +15,6 @@ struct timeval start, end;  // will hold the start and end times
 
 int miniMax(char board[][26], int depth, bool maxPlayer) {
 return 1;
-/*  int bestScore = -1000;
-  int score = 0;
-  
-  // Terminating condition
-  if(depth == 0){
-    return bestScore;
-  }
-
-  if(maxPlayer){
-
-    return 0;
-  }
-
-return 0;*/
 
   }
 
