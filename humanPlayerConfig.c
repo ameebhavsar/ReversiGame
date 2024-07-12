@@ -1,7 +1,7 @@
 //
 // Author: Amee Bhavsar
 //
-#include "lab8part1.h"
+#include "humanPlayerConfig.h"
 #include <stdbool.h>
 #include <stdio.h>
 
